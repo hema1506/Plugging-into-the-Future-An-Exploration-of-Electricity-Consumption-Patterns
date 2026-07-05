@@ -168,6 +168,13 @@ Electricity-Consumption-Analysis/
 
 This project provides a comprehensive analysis of electricity consumption using MySQL, Tableau, and Flask. The dashboards help users identify consumption trends and make data-driven decisions through interactive visualizations.
 
+## 🎥 Project Demo Video
+
+Click the link below to watch the complete project demonstration.
+
+**Demo Video:**  
+https://drive.google.com/file/d/1fzJa1JNpjgwaHlGbyJqNFZeBmD5OFK87/view?usp=sharing
+
 ---
 
 ## Author
